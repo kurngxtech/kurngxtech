@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Food Save Community App (Website Base)<br>🌱 I’m currently learning react.js, tailwind, mongoDB, Angular
+🔭 I’m currently working on Internship Project - Saint Ink Tattoo Landing Page Website<br>🌱 I’m currently learning next.js, tailwind, Firebase.
 
 
 ## 🌐 Socials:
